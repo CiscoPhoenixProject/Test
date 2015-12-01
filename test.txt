@@ -4,4 +4,9 @@ git clone https://github.com/CiscoPhoenixProject/Eval-Form.git
 git add test.txt
 git commit -m "this is a test"
 git push
+git branch
+git branch nik
+git checkout nik
+
+
 
